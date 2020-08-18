@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 8006px) {
+@media only screen and (max-width: 806px) {
   #ostrich {
     top: 100px;
   }
